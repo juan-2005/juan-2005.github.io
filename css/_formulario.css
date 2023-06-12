@@ -1,0 +1,8 @@
+@import "./body";
+@import "./formulario";
+@import "./mediaqueries";
+.formularioMio{
+    background-color: chartreuse;
+    width: 700px;
+    height: 500px;
+    }
